@@ -1,0 +1,17 @@
+SOME LIVE REST API FOR FRONTEND PROJECT :
+
+https://api.nasa.gov/index.html     --------> Project name :  NASA INFOMATICS
+
+
+https://fakestoreapi.com/   ------>  Project name :  ESTORE APP
+
+
+https://openweathermap.org/api  ---->  Project name :  WEATHER FORCASTING APP
+
+
+https://spoonacular.com/food-api/docs  ---->  Project name :  FOODISM APP
+
+
+MERN PROJECT :   RENTAL CAB BOOKING APP.
+
+

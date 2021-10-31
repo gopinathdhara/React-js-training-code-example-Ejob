@@ -1,0 +1,4 @@
+https://www.pragimtech.com/blog/reactjs/interaction-between-components-in-react/
+
+redux
+https://www.pluralsight.com/guides/handle-parent-child-data-relationships-in-redux

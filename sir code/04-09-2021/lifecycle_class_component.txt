@@ -1,0 +1,45 @@
+Class Component has its own lifecycle :
+
+Function component has no such lifecylce 
+In functional component we can not use lifecycle methods.
+In functional component we use Hooks instead of lifecycle methods to work.
+
+
+Class Component works in 3 states through out its lifecycle :
+
+state 1 :  initialisation state / mounting state
+
+state 2  : updating state
+
+state 3 :  unloading state / unmounting state
+
+
+Functions associated with lifecycle :
+
+Component class initialises :
+
+constructor() is called
+
+componentWillMount() ----> this function is called before render()
+
+render()  is called ---->  mounting state
+
+componentDidMount() ---->last function of mounting state
+
+updating state :
+
+componentShouldUpdate() ----> boolean type of function which return true or false
+                              By default this function alwways returns true.
+                              If this function returns false then we will not be able
+                              to update our state.							  
+
+componentWillUpdate() -----> update is done using setState() state update 
+
+render() ----> is called automatically
+
+componentDidUpdate() ----> Last function called in updating state
+
+unmounting state :
+
+componentWillUnmount() ---> this function is called when we unmount / unload the 
+                            component.

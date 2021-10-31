@@ -1,0 +1,21 @@
+HOC :   HIGHER ORDER COMPONENT
+
+object oriented programming ---- inheritance 
+
+parent class { }
+
+child class extend Parent { }
+
+code reusibility 
+
+HOC ----  CODE REUSIBILITY 
+
+
+component 1 ---->  { <h2>Hello world</h2> }
+
+component 2 ----->   welcome to react 
+
+component  1(component 2) ---->   new component ---->  hello world 
+                                                        welcome to react 
+
+component ----> HOC component (parent class)

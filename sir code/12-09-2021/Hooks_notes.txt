@@ -1,0 +1,49 @@
+class component --->  lifecycle methods 
+
+render() , setState() , 
+
+
+Functional component ----> render() x   setState() lefecycle ()x
+
+
+Library functions --- reusebility of the code 
+
+
+React ---> Hooks 
+
+Hooks are basically library functions which are predefined 
+and we need to import those funcions in our code and we need to implement them
+
+Hooks are mainly used for functional compoenets only.
+
+useState()   ---->   This hooks is used for state/constant variable updation purpose 
+
+useRef() ----> This hooks in used for creating the refernce of the dom element in functional
+               component.
+
+useEffect() ----> This Hooks will be called automatically after the functional component
+                  is mounted. 
+				  componentDidUpdate() / ComponentWillUpdate()
+				  
+				  
+Syntax for constant declaration in functional component :
+
+function comp_name()
+{
+
+const [var_name,funct_name_to_update]=useState(initial_value);
+
+const func_name=()=> {  };
+
+setInterval(function,time in millisec);
+
+setInterval( ()=>{/*code*/ },time in millisec);
+
+useEffect(function,[]);
+
+useEffect(()=>{/*code*/},[]);
+
+
+
+}
+				  

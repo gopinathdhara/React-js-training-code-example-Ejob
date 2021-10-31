@@ -1,0 +1,62 @@
+Module 2 :
+
+Installing.
+
+React js ---  a frontend framework of javascript 
+
+ES6 (ECMA SCRIPT VERSION 6)
+
+front end ui for any application 
+
+
+React js --->  environment of Node js 
+
+Install node js in your system 
+
+folder structure ---->  app 
+
+1. we have to create a react app folder first 
+
+command to create new react application :
+
+npx ----> node package Execute 
+
+
+npx  create-react-app   application_name    
+
+
+3 to 4 min 
+
+command to start the node development server :
+
+npm start 
+
+npm(node package manager)
+
+"Happy Hacking !"
+
+files ---->  components 
+
+component is basically a react file containg the react code 
+
+conponent have extension .js 
+
+
+application multiple 
+
+name.js 
+
+
+single page application 
+
+components of 2 types :
+
+1. class component 
+
+ES6 
+
+
+2. functional component
+
+
+function 
